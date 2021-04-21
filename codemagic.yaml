@@ -6,8 +6,8 @@ workflows:
     environment:
       vars:
         # Ionic Xcode worskspace and scheme
-        XCODE_WORKSPACE: "platforms/ios/ThinkFornecedores.xcworkspace" # <- Update with your workspace name
-        XCODE_SCHEME: "ThinkFornecedores" # <- Update with your workspace scheme
+        XCODE_WORKSPACE: "platforms/ios/MyApp.xcworkspace" # <- Update with your workspace name
+        XCODE_SCHEME: "MyApp" # <- Update with your workspace scheme
         # Manual Code Signing
         # FCI_CERTIFICATE: Encrypted(...) # <-- Put your encrypted certificate file here
         # FCI_CERTIFICATE_PASSWORD: Encrypted(...) # <-- Put your encrypted certificate password here

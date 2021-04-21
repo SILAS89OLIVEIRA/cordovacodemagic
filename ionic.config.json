@@ -1,0 +1,7 @@
+{
+  "name": "ThinkFornecedores",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
